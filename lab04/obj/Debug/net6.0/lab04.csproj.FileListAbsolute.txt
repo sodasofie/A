@@ -1,0 +1,15 @@
+C:\Users\sonia\Desktop\UNI\2year\C#\lab04\bin\Debug\net6.0\lab04.exe
+C:\Users\sonia\Desktop\UNI\2year\C#\lab04\bin\Debug\net6.0\lab04.deps.json
+C:\Users\sonia\Desktop\UNI\2year\C#\lab04\bin\Debug\net6.0\lab04.runtimeconfig.json
+C:\Users\sonia\Desktop\UNI\2year\C#\lab04\bin\Debug\net6.0\lab04.dll
+C:\Users\sonia\Desktop\UNI\2year\C#\lab04\bin\Debug\net6.0\lab04.pdb
+C:\Users\sonia\Desktop\UNI\2year\C#\lab04\obj\Debug\net6.0\lab04.csproj.AssemblyReference.cache
+C:\Users\sonia\Desktop\UNI\2year\C#\lab04\obj\Debug\net6.0\lab04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonia\Desktop\UNI\2year\C#\lab04\obj\Debug\net6.0\lab04.AssemblyInfoInputs.cache
+C:\Users\sonia\Desktop\UNI\2year\C#\lab04\obj\Debug\net6.0\lab04.AssemblyInfo.cs
+C:\Users\sonia\Desktop\UNI\2year\C#\lab04\obj\Debug\net6.0\lab04.csproj.CoreCompileInputs.cache
+C:\Users\sonia\Desktop\UNI\2year\C#\lab04\obj\Debug\net6.0\lab04.dll
+C:\Users\sonia\Desktop\UNI\2year\C#\lab04\obj\Debug\net6.0\refint\lab04.dll
+C:\Users\sonia\Desktop\UNI\2year\C#\lab04\obj\Debug\net6.0\lab04.pdb
+C:\Users\sonia\Desktop\UNI\2year\C#\lab04\obj\Debug\net6.0\lab04.genruntimeconfig.cache
+C:\Users\sonia\Desktop\UNI\2year\C#\lab04\obj\Debug\net6.0\ref\lab04.dll
